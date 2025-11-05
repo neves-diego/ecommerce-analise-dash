@@ -25,7 +25,7 @@ No terminal, rode o script principal:
 python graficos_avancados.py
 
 3️⃣ Acesse o dashboard no navegador:
-👉 http://127.0.0.1:8050
+👉 (http://0.0.0.0:8050/)
 
 📁 Estrutura Sugerida de Pastas
 
