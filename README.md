@@ -1,3 +1,4 @@
+markdown
 # 📊 Dashboard de E-commerce
 
 Este projeto apresenta um **dashboard interativo** desenvolvido em **Python**, utilizando as bibliotecas **Dash** e **Plotly Express**, para análise de dados de um e-commerce.  
@@ -118,3 +119,4 @@ Este projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes
 ✍️ Autor
 Diego Neves
 📧 LinkedIn
+
